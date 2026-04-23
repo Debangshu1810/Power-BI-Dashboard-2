@@ -66,8 +66,7 @@ Donut Chart
 📉 Opportunity: Improve product quality (ratings ~3.9)
 🎯 Business Impact: This dashboard helps stakeholders to Optimize inventory planning, Focus on high-revenue categories, Improve outlet expansion strategies,  Understand customer behavior and Make data-driven decisions.
 📷 Dashboard Preview
-Project Screenshot:
+Project Screenshot: https://github.com/Debangshu1810/Power-BI-Dashboard-2/blob/main/Power%20BI%20BLINKIT%20Screenshot.png
 Power BI File:
-SQL
 Python (Data Analytics)
 Advanced Excel
