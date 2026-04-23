@@ -68,5 +68,4 @@ Donut Chart
 📷 Dashboard Preview
 Project Screenshot: https://github.com/Debangshu1810/Power-BI-Dashboard-2/blob/main/Power%20BI%20BLINKIT%20Screenshot.png
 Power BI File: https://github.com/Debangshu1810/Power-BI-Dashboard-2/blob/main/Power%20BI%20BLINKIT.pbix
-Python (Data Analytics)
-Advanced Excel
+
